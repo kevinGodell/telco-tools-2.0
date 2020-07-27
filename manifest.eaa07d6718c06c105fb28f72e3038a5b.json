@@ -3,7 +3,8 @@
     {
       "src": "icons/icon_192x192.07c1b6ba96b87a2a568579a97e6c6c4e.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "icons/icon_1024x1024.fb7d79468d1872dae1631aafcf22eb99.png",
