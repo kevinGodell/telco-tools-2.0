@@ -1,0 +1,101 @@
+{
+  "icons": [
+    {
+      "src": "icons/icon_192x192.ba7f78b44eb17da257fb7eb1d571be02.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_1024x1024.9c7a5d70750aeea573d9475ac6fbba26.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_512x512.e6c4e5620fb46971120f90afb7644ba8.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_180x180.f16de59fcb0e1d9e44c63a500eceb116.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_167x167.9393733d81cc2393a8144400df1c926a.png",
+      "sizes": "167x167",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_152x152.ad3050a064afab4c929e936a2f6bef5d.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_144x144.2ab3eeefcc34561cd6c603170bbdbf7b.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_128x128.bde453f207859b262d162ef2e6eb5da9.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_120x120.fd0601d464212007f69625828bf03fbe.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_114x114.2f32d89cabf8fd0ba1b792d20b2e3467.png",
+      "sizes": "114x114",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_87x87.b30e9f9f5317b1272365306a331280db.png",
+      "sizes": "87x87",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_80x80.241d35d531ee6f545ff19fb3b68636c2.png",
+      "sizes": "80x80",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_60x60.d4361decdc8225db79f0f3c87699f5af.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_58x58.44ddd11779fc5037f8a505090560f3c3.png",
+      "sizes": "58x58",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_40x40.cb8e63df727f6f046410f5c15000be3f.png",
+      "sizes": "40x40",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "name": "Telco Tools 2.0",
+  "short_name": "Telco Tools 2.0",
+  "display": "standalone",
+  "start_url": "standalone.html",
+  "description": "Tools designed to help telco field technicians.",
+  "theme_color": "#000000",
+  "background_color": "#00a8e0"
+}
